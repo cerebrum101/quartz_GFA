@@ -1,4 +1,4 @@
-👾📚**What is the Computer Science major?**
+title: "👾📚**What is the Computer Science major?**"
 
 Computer Science is the study of computers and computational systems. Unlike electrical and computer engineers, computer scientists deal mostly with software and software systems; this includes their theory, design, development, and application.
 
@@ -31,7 +31,22 @@ Computer science majors typically study a wide range of subjects related to comp
 
 *Date: 03-08-2023*
 
-**Тип статьи:**
+tags: 
+- guide 
+- advice
+- career-choice
+- extracurriculars
+- usa
+- kazakhstan 
+- universities-info
+- masters
+- PhD
+
+
+
+
+
+
 #guide 
 #advice
 #career-choice
