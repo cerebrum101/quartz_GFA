@@ -1,3 +1,7 @@
+
+
+
+
 bunch of text 
 bunch of text 
 bunch of text
@@ -5,7 +9,7 @@ bunch of text
 bunch of text 
 
 *Author: [yuna](https://t.me/auilt)
-Date: {{date:DD-MM-YYYY}}
+Date : 
 tags:
 Тип статьи:
 
