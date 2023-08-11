@@ -1,3 +1,14 @@
+---
+title: "Olympiads participation"
+tags:
+- guide 
+- advice 
+- extracurriculars
+- helpful-resources
+- career-choice
+- self-help
+---
+
 ✨Participation in the Olympiads: Why It Matters✨
 
 Are you a student who loves to challenge yourself and test your skills against other top performers from around the world? If so, you might be interested in participating in the Olympiads.
