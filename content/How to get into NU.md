@@ -13,7 +13,6 @@ tags:
   - IELTS
   - exams 
   - essays
-#country:
   - kazakhstan
 ---
 
