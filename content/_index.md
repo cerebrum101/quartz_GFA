@@ -1,6 +1,7 @@
 ---
 title: Guide for Applicants
 enableToc: false
+
 ---
 
 Guide for Applicants
