@@ -2,10 +2,9 @@
 title: "{{ replace .Name "-" " " | title }}"
 enableToc: false
 date: {{ .Date }}
-tags
-- Author: {Atay}
+Author: {{Atay}}
 tags:
-Тип статьи:
+#Тип статьи:
 - guide 
 - advice
 #Тема статьи:
@@ -19,13 +18,13 @@ tags:
 #Страна поступления:
 - kazakhstan
 #Дополнительно:
-- self-help
-- masters
-- PhD
 ---
 
 You won't 
 
+[[NUET]]
+[[Digital SAT]]
+[[IELTS preparation resources]]
 
 
 
