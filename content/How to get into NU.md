@@ -1,8 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ title }}"
 enableToc: false
 date: {{ .Date }}
-author: "Atay"
 tags:
   - guide 
   - advice
