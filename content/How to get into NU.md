@@ -17,10 +17,9 @@ tags:
 
 You won't 
 
-[[NUET]]
-[[Digital SAT]]
-[[IELTS preparation resources]]
-
+[[NUET]],
+[[Digital SAT]],
+[[IELTS preparation resources]],
 
 
 
