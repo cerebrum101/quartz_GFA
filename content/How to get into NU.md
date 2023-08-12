@@ -2,23 +2,21 @@
 title: "{{ replace .Name "-" " " | title }}"
 enableToc: false
 date: {{ .Date }}
-Author: {{Atay}}
+author: "Atay"
 tags:
-#Тип статьи:
-- guide 
-- advice
-#Тема статьи:
-- scholarship-info
-- universities-info
-- helpful-resources
-- sat
-- IELTS
-- exams 
-- essays
-#Страна поступления:
-- kazakhstan
-#Дополнительно:
+  - guide 
+  - advice
+  - scholarship-info
+  - universities-info
+  - helpful-resources
+  - sat
+  - IELTS
+  - exams 
+  - essays
+#country:
+  - kazakhstan
 ---
+
 
 You won't 
 
