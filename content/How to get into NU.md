@@ -1,7 +1,6 @@
 ---
 title: "How to get into NU"
 enableToc: false
-date: {{ .Date }}
 tags:
   - guide 
   - advice
