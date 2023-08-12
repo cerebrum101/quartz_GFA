@@ -1,5 +1,5 @@
 ---
-title: "{{ title }}"
+title: "How to get into NU"
 enableToc: false
 date: {{ .Date }}
 tags:
