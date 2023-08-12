@@ -1,3 +1,27 @@
+---
+title: Карьера после университета
+enableToc: true
+openToc: false
+tags:
+  - guide
+  - advice
+  - career-choice
+  - extracurriculars
+  - helpful-resources
+  - usa
+  - eu
+  - asia
+  - eu/italy
+  - eu/germany
+  - eu/france
+  - turkey
+  - canada
+  - kazakhstan
+  - asia/china
+  - asia/hong-kong
+  - internship
+  - self-help
+---
 # Карьера после университета
 
 Чтобы иметь хорошо оплачиваемую работу сразу после обучения в университете, разумно будет предпринимать действия еще находясь в университете, или даже раньше.

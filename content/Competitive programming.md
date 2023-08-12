@@ -1,3 +1,24 @@
+---
+title: Competitive Programming
+enableToc: true
+openToc: false
+tags:
+- guide
+- advice
+- career-choice
+- extracurriculars
+- helpful-resources
+- usa
+- eu
+- asia
+- turkey
+- canada
+- kazakhstan
+- internship
+---
+
+
+
 💻 **Are you looking for an extracurricular activity that will help you develop your problem-solving skills, boost your confidence, and set you apart from your peers? Look no further than competitive programming!**
 
 Competitive programming involves solving algorithmic problems in a timed environment, often in the context of a programming competition. It requires a combination of technical skills, creativity, and strategic thinking, making it a challenging but rewarding activity for students of all ages.

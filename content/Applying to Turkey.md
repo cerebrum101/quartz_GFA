@@ -1,3 +1,18 @@
+---
+title: Подача в Турцию 🇹🇷 На примере Koç University
+enableToc: true
+openToc: false
+tags:
+  - guide
+  - career-choice
+  - college-list
+  - scholarship-info
+  - universities-info
+  - country-choice
+  - sat
+  - exams
+  - turkey
+---
 ## Подача в Турцию 🇹🇷 На примере Koç University
 
 ### Немного статистики:

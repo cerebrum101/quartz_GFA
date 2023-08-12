@@ -1,5 +1,7 @@
 ---
 title: "Olympiads participation"
+enableToc: true
+openToc: false
 tags:
 - guide 
 - advice 
@@ -24,7 +26,7 @@ Why should you consider participating in the Olympiads? Here are a few reasons:
 
 To sum up, participating in the Olympiads is a great way to challenge yourself, learn from the best, improve your skills, and boost your resume. If you're interested in participating, talk to your teachers or mentors to learn more about the process and how you can get started.
 
-*Author: [Chugajan](https://t.me/Chugajan)
+Author: [Chugajan](https://t.me/Chugajan)
 Date: 03-08-2023
 tags:
 

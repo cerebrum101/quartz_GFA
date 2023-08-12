@@ -1,3 +1,15 @@
+---
+title: Особенности поступления во Францию🇫🇷
+enableToc: true
+openToc: false
+tags:
+  - guide
+  - college-list
+  - scholarship-info
+  - universities-info
+  - country-choice
+  - eu/france
+---
 # Особенности поступления во Францию🇫🇷
 
 ![](https://img1.teletype.in/files/02/33/02335ffa-529e-4e0a-b9d0-77a968048546.jpeg)

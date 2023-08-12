@@ -1,11 +1,11 @@
 ---
 title: Guide for Applicants
-enableToc: false
-
+enableToc: true
+openToc: false
 ---
 
 Guide for Applicants
-A non profit project that helps students all acros the globe with applying and getting into desired universities!
+A non profit project that helps students all across the globe with applying and getting into desired universities!
 
 1. Extremely fast natural-language search
 2. Customizable and hackable design based on Hugo
