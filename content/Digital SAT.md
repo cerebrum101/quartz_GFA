@@ -1,3 +1,13 @@
+---
+title: Digital SAT
+enableToc: true
+openToc: false
+tags:
+- guide
+- disclaimer
+- sat
+- exams
+---
 # Изменения в SAT
 
 **Длительность:** Если раньше на тестирование выделяли 3 часа и 30 минут, то сейчас на него выделяют ровно 2 часа.

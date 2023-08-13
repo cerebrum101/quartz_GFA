@@ -26,6 +26,14 @@
 *Автор поста: [iameruyert](https://t.me/iameruyert)*
 
 *Date: 03-08-2023*
+
+[[Bachelor's degree in Italy]]
+
+[[IELTS info]] 
+
+[[TOEFL VS IELTS]]
+
+
 **Тип статьи:**
 #guide 
 #advice

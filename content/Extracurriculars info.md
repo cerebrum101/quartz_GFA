@@ -1,3 +1,15 @@
+---
+title: Extracurricular Activities
+enableToc: true
+openToc: false
+tags:
+- guide
+- extracurriculars
+- usa
+- eu
+- asia
+- self-help
+---
 # ⚡️Что такое Extracurricular activities?
 
 Extracurricular activities, или внеклассные активности, означают занятия, которыми абитуриент занимается в дополнение к школьным урокам. Иногда, если у абитуриента недостаточно хороший GPA или результаты тестов, его extracurriculars могут перевешивать эти слабые стороны и не повлиять отрицательно на процесс подачи. Поэтому, если у вас еще нет extracurriculars, задумайтесь над этим и начните действовать.

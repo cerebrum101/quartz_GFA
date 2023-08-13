@@ -1,4 +1,13 @@
-
+---
+title: Why leadership is important for universities?
+tags:
+- guide
+- advice
+- extracurriculars
+- usa
+- eu
+- asia
+---
 Take a look at the freshman survey at MIT, Harvard, and Dartmouth:
 
 ![](https://img4.teletype.in/files/fe/5c/fe5cb527-4ff5-4c97-b9b3-3adf5113e90b.png)

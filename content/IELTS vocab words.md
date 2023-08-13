@@ -1,3 +1,14 @@
+---
+title: IELTS Vocabulary Enhancement
+tags:
+- guide
+- IELTS
+- helpful-resources
+- exams
+- usa
+- eu
+- self-help
+---
 # IELTS Vocabulary Enhancement
 
 IELTS is a widely recognized examination for assessing the English language proficiency of non-native speakers. To excel in the IELTS exam, it is essential to have a strong vocabulary foundation. This post aims to present a selection of words at the C1 level, which corresponds to an advanced level of English proficiency, and will significantly contribute to your success in the IELTS.

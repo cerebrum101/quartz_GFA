@@ -41,6 +41,9 @@ In conclusion, competitive programming is a challenging but rewarding extracurri
 _Copywriter: [Chugajan](https://t.me/Chugajan)_
 
 Date: 03-08-2023
+
+[[Computer Science Major]]
+
 #guide 
 #advice
 #career-choice

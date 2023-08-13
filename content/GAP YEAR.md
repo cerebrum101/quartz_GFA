@@ -1,4 +1,27 @@
-
+---
+title: Gap Year
+enableToc: true
+openToc: false
+tags:
+- guide
+- disclaimer
+- advice
+- career-choice
+- extracurriculars
+- college-list
+- awards
+- universities-info
+- country-choice
+- sat
+- IELTS
+- usa
+- eu
+- asia
+- turkey
+- canada
+- kazakhstan
+- internship
+---
 📌 Что такое gap year?  
   
   
