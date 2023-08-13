@@ -1,3 +1,14 @@
+---
+title: Конвертация SAT в ЕНТ
+enableToc: true
+openToc: false
+tags:
+- guide 
+- helpful-resources
+- self-help
+- exams 
+- unt
+---
 # Конвертация SAT в ЕНТ:
 
 Для тех кто не знал ваши баллы полученные на SAT можно конвертировать в баллы на ЕНТ.

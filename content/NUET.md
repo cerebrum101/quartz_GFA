@@ -1,3 +1,11 @@
+---
+title: Об экзамене NUET
+tags:
+- guide 
+- exams 
+- kazakhstan
+- disclaimer
+---
 # Об экзамене NUET
 
 • регистрация  

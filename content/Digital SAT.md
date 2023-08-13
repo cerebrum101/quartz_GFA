@@ -20,6 +20,15 @@ tags:
 
 **Когда выходят результаты?** Результаты теперь приходят онлайн, в течение пяти дней. До 2023 года этот срок был значительно больше.
 
+Смотрите также: 
+[[SAT to UNT conversion]]  <!--  -->
+[[UNIS without SAT]] <!--  -->
+[[Passport to Advanced Math]] <!--  -->
+[[Problem Solving and Data Analysis ]<!--  -->]
+[[Sat Math]] <!--  -->
+[[Heart of Algebra]] <!--  -->
+
+
 *Author: [yuna](https://t.me/auilt)*
 Date: 03-08-2023
 
@@ -29,5 +38,3 @@ tags:
 #sat
 #exams 
 
-[[SAT to UNT conversion]]
-[[UNIS without SAT]]

@@ -1,3 +1,20 @@
+---
+title: TOEFL VS IELTS
+enableToc: true
+openToc: false
+tags:
+- guide
+- advice
+- helpful-resources
+- IELTS
+- exams
+- usa
+- eu
+- asia
+- turkey
+- canada
+- kazakhstan
+---
 ❗️**Для чего сдавать эти экзамены?❗️
 Часто перед экзаменами кандидаты задают данный вопрос: «Что лучше TOEFL или IELTS?” Данные экзамены нужны при поступлении в зарубежные университеты для подтверждения знания английского языка.
 

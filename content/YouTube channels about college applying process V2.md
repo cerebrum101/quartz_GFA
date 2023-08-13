@@ -1,3 +1,18 @@
+---
+title: Полезные каналы связанные с поступлением v2
+enableToc: true
+openToc: false
+tags:
+- advice
+- career-choice
+- universities-info
+- helpful-resources
+- country-choice 
+- exams
+- usa
+- kazakhstan
+- self-help
+---
 # 📺 Полезные каналы связанные с поступлением
 1. Gohar Khan: MIT Alumnus, Полезные советы при поступлении и в написании эссе, ECs, Study Hacks. Gohar's Guide YouTube Channel: 
 2. Mahad Khan: Harvard Senior, Опросы студентов Лиги Плюща, советы по поступлению в топ-вузы 🇺🇸, полезная статистика.

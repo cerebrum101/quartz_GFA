@@ -1,4 +1,21 @@
-
+---
+title: Как подобрать страну для обучения?
+enableToc: true
+openToc: false
+tags:
+- guide 
+- advice
+- career-choice
+- college-list
+- universities-info
+- country-choice 
+- usa
+- eu
+- asia
+- turkey
+- canada
+- kazakhstan
+---
 ## Как подобрать страну для обучения? 
 
 Ни для кого не секрет, насколько много существует вариантов стран для обучения. Как же выбрать ту, которая подойдёт именно вам? Вот несколько аспектов, которые стоит учесть для решения этого вопроса.

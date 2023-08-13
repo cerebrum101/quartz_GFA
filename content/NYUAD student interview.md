@@ -1,3 +1,21 @@
+---
+title: Как поступить в NYUAD на полный грант без SAT?
+enableToc: true
+openToc: false
+tags:
+- interview
+- advice
+- career-choice
+- extracurriculars
+- awards
+- scholarship-info
+- universities-info
+- country-choice 
+- exams 
+- essays
+- usa
+- asia
+---
 🎯 Как поступить в NYUAD на полный грант без SAT?
 
 Как набрать полный лист активностей всего за один год? Мы подготовили FAQ с Томирис, которая учится на втором курсе по специальности "Biology" в New York University Abu Dhabi

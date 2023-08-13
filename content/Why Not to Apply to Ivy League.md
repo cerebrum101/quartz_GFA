@@ -1,3 +1,14 @@
+---
+title: Почему не стоит подавать документы только в Лигу Плюща?
+enableToc: true
+openToc: false
+tags:
+- disclaimer
+- advice
+- college-list
+- universities-info
+- usa
+---
 # Почему не стоит подавать документы только в Лигу Плюща?
 
 Лига Плюща (The Ivy League) - это ассоциация восьми частных американских университетов, расположенных в семи штатах на северо-востоке США: Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, Princeton University, the University of Pennsylvania и Yale University. Все эти университеты известны своими высокими академическими рейтингами и избирательностью в процессе приема.
