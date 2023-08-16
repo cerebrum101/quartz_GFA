@@ -32,3 +32,5 @@ Problem Solving and Data Analysis (задачи и анализ данных)
 [Khan Academy - Problem Solving and Data Analysis Lessons](https://www.khanacademy.org/test-prep/sat/x0a8c2e5f:untitled-652/x0a8c2e5f:problem-solving-and-data-analysis-lessons-by-skill/a/gtp--sat-math--article--ratios-rates-and-proportions--lesson)
 
 Удачи вам на экзамене!
+
+[[Sat Math]]

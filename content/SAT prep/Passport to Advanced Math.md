@@ -23,3 +23,5 @@ Passport to Advanced Math включает следующие типы вопр�
  [Khan Academy - Passport to Advanced Math Lessons] (https://www.khanacademy.org/test-prep/sat/new-sat-tips-planning/about-the-sat-math-test/a/passport-to-advanced-math-lessons-by-skill). 🎓
 
  Удачи вам на экзамене!
+ 
+[[Sat Math]]

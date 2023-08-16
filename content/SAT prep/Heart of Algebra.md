@@ -26,3 +26,5 @@ Heart of Algebra (основы алгебры)
 Если вы стремитесь успешно подготовиться к этому разделу, мы рекомендуем воспользоваться курсом на Khan Academy, который поможет улучшить ваши навыки: [Khan Academy - Heart of Algebra Lessons](https://www.khanacademy.org/test-prep/sat/new-sat-tips-planning/about-the-sat-math-test/a/heart-of-algebra-lessons-by-skill). 🎓
 
  Удачи вам на экзамене!
+
+[[Sat Math]]
