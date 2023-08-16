@@ -1,4 +1,4 @@
-baseURL = "https://guideforapplicants.live"
+baseURL = "https://www.guideforapplicants.live/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
