@@ -9,7 +9,7 @@ A non profit project that helps students all acros the globe with applying and g
 4. Built-in CJK + Latex Support and Admonition-style callouts
 5. Support for both Markdown Links and Wikilinks
 
-🔗 Get Started: https://cerebrum101.github.io/quartz_GFA/
+🔗 Get Started: https://www.guideforapplicants.live/
 
 Instagram: https://www.instagram.com/guideforapplicants
 Telegram channel: https://t.me/guideforapplicants_c
